@@ -1,0 +1,15 @@
+package request;
+
+public enum RequestType {
+
+    GET_CLIENT_BALANCE,
+    GET_CLIENT_DELIVERY,
+    GET_CLIENT_PAY,
+    GET_PARTNER_BALANCE,
+    GET_PARTNER_TASK,
+    GET_PARTNER_PAY,
+    GET_COURIER_BALANCE,
+    GET_COURIER_TASK,
+    GET_COURIER_PAY
+
+}
