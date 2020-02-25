@@ -3,6 +3,8 @@ import data.User;
 import request.Request;
 import request.RequestType;
 
+/** Цепочка обязанностей, также известен как: CoR, Chain of Command, Chain of Responsibility */
+
 public class App {
 
     public static void main(String[] args) {
